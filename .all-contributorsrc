@@ -56,6 +56,16 @@
         "doc",
         "data"
       ]
+    },
+    {
+      "login": "wu-xian-a",
+      "name": "wu-xian-a",
+      "avatar_url": "https://avatars.githubusercontent.com/u/219944301?v=4",
+      "profile": "https://github.com/wu-xian-a",
+      "contributions": [
+        "doc",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
