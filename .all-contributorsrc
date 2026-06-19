@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "A-Y-1",
+      "name": "Yang Pengyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103010544?v=4",
+      "profile": "https://github.com/A-Y-1",
+      "contributions": [
+        "doc",
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "HNU-resources",
+  "projectOwner": "wolfvoid"
+}
