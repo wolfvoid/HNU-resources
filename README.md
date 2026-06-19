@@ -1,4 +1,5 @@
 # HNU-resources
+
 这里是甘晴void的**HNU课程资源仓库**，主要是**计算机类**（计算机科学与技术，软件工程，人工智能等专业）的核心课程、部分通识类课程以及所有工训类课程的资料，包括期中期末考卷、机考题、作业答案、代码、工程项目、小班讨论等（不包括老师上课使用的PPT以及其他可能引起知识产权/版权问题的资料）。希望以一个经历者的视角帮助各位HNU-CSer们更好地landing，希望能对您有帮助。
 
 - 下载：如果想要完整地下载本仓库，请至少预留**5GB**磁盘空间。您可以选择git clone方式（推荐）或者下载zip的方式获取本仓库。
@@ -25,32 +26,23 @@
 - 或 直接联系我（Issue / Discussions）
 
 感谢以下同学对仓库建设的贡献 ❤️  
-（按首次贡献时间排序）
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- if there is a @ in <b></b>, replace it with &#8209 -->
-
-<table width="100%" style="table-layout: fixed;">
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://github.com/A-Y-1.png?size=64" width="64" height="64" alt="A-Y-1"/><br /><sub><b>@A&#8209;Y&#8209;1</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Eyre921"><img src="https://github.com/Eyre921.png?size=64" width="64" height="64" alt="Eyre921"/><br /><sub><b>@Eyre921</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SophiaDumb"><img src="https://github.com/SophiaDumb.png?size=64" width="64" height="64" alt="SophiaDumb"/><br /><sub><b>@SophiaDumb</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://avatars.githubusercontent.com/u/103010544?v=4?s=100" width="100px;" alt="Yang Pengyu"/><br /><sub><b>Yang Pengyu</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=A-Y-1" title="Documentation">📖</a> <a href="#data-A-Y-1" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -59,7 +51,7 @@
 
 ## 🙏 个人致谢
 
-感谢湖南大学、湖南大学信息科学与工程学院（现湖南大学计算机学院）的培养，特别感谢[A橙学长](https://github.com/A-Y-1)作为首个系统性地整理开源资源的HNU-CSer以及一路以来对我个人的帮助，感谢其他在我本科过程中给予我帮助的老师，学长学姐和同级同学们。如果喜欢本仓库，麻烦点个star🌟与follow❤️，欢迎让更多同学知道。
+感谢湖南大学、湖南大学信息科学与工程学院（现湖南大学计算机学院）的培养，特别感谢[A橙学长](https://github.com/A-Y-1)作为首个系统性开源资源的发起者以及一路以来对21级CSers和我个人的帮助，感谢其他在我本科过程中给予我帮助的老师，学长学姐和同级同学们。如果喜欢本仓库，麻烦点个star🌟与follow❤️，欢迎让更多同学知道。
 
 其他链接： [📖CSDN](https://blog.csdn.net/qq_39480177) &nbsp;&nbsp; [🚀个人主页](https://wolfvoid.github.io/) 欢迎友链与联系。
 
@@ -68,5 +60,5 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wolfvoid/HNU-resourses&type=date&legend=top-left)](https://www.star-history.com/#wolfvoid/HNU-resourses&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=wolfvoid/HNU-resources&type=date&legend=top-left)](https://www.star-history.com/#wolfvoid/HNU-resources&type=date&legend=top-left)
 
