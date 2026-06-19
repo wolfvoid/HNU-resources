@@ -1,4 +1,7 @@
 # HNU-resources
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 这里是甘晴void的**HNU课程资源仓库**，主要是**计算机类**（计算机科学与技术，软件工程，人工智能等专业）的核心课程、部分通识类课程以及所有工训类课程的资料，包括期中期末考卷、机考题、作业答案、代码、工程项目、小班讨论等（不包括老师上课使用的PPT以及其他可能引起知识产权/版权问题的资料）。希望以一个经历者的视角帮助各位HNU-CSer们更好地landing，希望能对您有帮助。
 
 - 下载：如果想要完整地下载本仓库，请至少预留**5GB**磁盘空间。您可以选择git clone方式（推荐）或者下载zip的方式获取本仓库。
@@ -28,29 +31,18 @@
 （按首次贡献时间排序）
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- if there is a @ in <b></b>, replace it with &#8209 -->
-
-<table width="100%" style="table-layout: fixed;">
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://github.com/A-Y-1.png?size=64" width="64" height="64" alt="A-Y-1"/><br /><sub><b>@A&#8209;Y&#8209;1</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Eyre921"><img src="https://github.com/Eyre921.png?size=64" width="64" height="64" alt="Eyre921"/><br /><sub><b>@Eyre921</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SophiaDumb"><img src="https://github.com/SophiaDumb.png?size=64" width="64" height="64" alt="SophiaDumb"/><br /><sub><b>@SophiaDumb</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
-      <td align="center" valign="top" width="14.28%">
-        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="64" height="64" alt=""/><br /><sub><b>&nbsp;</b></sub>
-      </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://avatars.githubusercontent.com/u/103010544?v=4?s=100" width="100px;" alt="Yang Pengyu"/><br /><sub><b>Yang Pengyu</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=A-Y-1" title="Documentation">📖</a> <a href="#data-A-Y-1" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -70,3 +62,16 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wolfvoid/HNU-resourses&type=date&legend=top-left)](https://www.star-history.com/#wolfvoid/HNU-resourses&type=date&legend=top-left)
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
