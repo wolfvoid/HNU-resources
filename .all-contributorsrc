@@ -46,6 +46,16 @@
         "doc",
         "data"
       ]
+    },
+    {
+      "login": "hieght123",
+      "name": "hieght123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/180853510?v=4",
+      "profile": "https://github.com/hieght123",
+      "contributions": [
+        "doc",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
