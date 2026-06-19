@@ -27,7 +27,7 @@
 
 感谢以下同学对仓库建设的贡献 ❤️  
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -37,6 +37,7 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://avatars.githubusercontent.com/u/103010544?v=4?s=100" width="100px;" alt="Yang Pengyu"/><br /><sub><b>Yang Pengyu</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=A-Y-1" title="Documentation">📖</a> <a href="#data-A-Y-1" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LOYINuts"><img src="https://avatars.githubusercontent.com/u/126253581?v=4?s=100" width="100px;" alt="LoyiNuts"/><br /><sub><b>LoyiNuts</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=LOYINuts" title="Documentation">📖</a> <a href="#data-LOYINuts" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
