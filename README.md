@@ -37,7 +37,7 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Y-1"><img src="https://avatars.githubusercontent.com/u/103010544?v=4?s=100" width="100px;" alt="Yang Pengyu"/><br /><sub><b>Yang Pengyu</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=A-Y-1" title="Documentation">📖</a> <a href="#data-A-Y-1" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LOYINuts"><img src="https://avatars.githubusercontent.com/u/126253581?v=4?s=100" width="100px;" alt="LoyiNuts"/><br /><sub><b>LoyiNuts</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=LOYINuts" title="Documentation">📖</a> <a href="#data-LOYINuts" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LOYINuts"><img src="https://avatars.githubusercontent.com/u/126253581?v=4?s=100" width="100px;" alt="LOYINuts"/><br /><sub><b>LOYINuts</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=LOYINuts" title="Documentation">📖</a> <a href="#data-LOYINuts" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SophiaDumb"><img src="https://avatars.githubusercontent.com/u/139142775?v=4?s=100" width="100px;" alt="SophiaDumb"/><br /><sub><b>SophiaDumb</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=SophiaDumb" title="Documentation">📖</a> <a href="#data-SophiaDumb" title="Data">🔣</a></td>
     </tr>
   </tbody>
