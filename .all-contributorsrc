@@ -66,6 +66,16 @@
         "doc",
         "data"
       ]
+    },
+    {
+      "login": "wxp09",
+      "name": "Xinping Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194469666?v=4",
+      "profile": "https://github.com/wxp09",
+      "contributions": [
+        "doc",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,

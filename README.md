@@ -27,7 +27,7 @@
 
 感谢以下同学对仓库建设的贡献 ❤️  
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -42,6 +42,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://www.vibevibe.cn/"><img src="https://avatars.githubusercontent.com/u/98458308?v=4?s=100" width="100px;" alt="Eyre"/><br /><sub><b>Eyre</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=Eyre921" title="Documentation">📖</a> <a href="#data-Eyre921" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hieght123"><img src="https://avatars.githubusercontent.com/u/180853510?v=4?s=100" width="100px;" alt="hieght123"/><br /><sub><b>hieght123</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=hieght123" title="Documentation">📖</a> <a href="#data-hieght123" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wu-xian-a"><img src="https://avatars.githubusercontent.com/u/219944301?v=4?s=100" width="100px;" alt="wu-xian-a"/><br /><sub><b>wu-xian-a</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=wu-xian-a" title="Documentation">📖</a> <a href="#data-wu-xian-a" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wxp09"><img src="https://avatars.githubusercontent.com/u/194469666?v=4?s=100" width="100px;" alt="Xinping Wang"/><br /><sub><b>Xinping Wang</b></sub></a><br /><a href="https://github.com/wolfvoid/HNU-resources/commits?author=wxp09" title="Documentation">📖</a> <a href="#data-wxp09" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
