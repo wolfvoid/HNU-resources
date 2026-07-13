@@ -66,4 +66,10 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wolfvoid/HNU-resources&type=date&legend=top-left)](https://www.star-history.com/#wolfvoid/HNU-resources&type=date&legend=top-left)
+<a href="https://www.star-history.com/?type=date&legend=top-left&repos=wolfvoid%2FHNU-resources">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=wolfvoid/HNU-resources&type=date&theme=dark&legend=top-left&sealed_token=vpx-DtYrcBcOOd1cNFqBqSjCYEv5Un3uBaj-yvnDYGutp_fXO1bunmiQzEygx6Xs6bqckcYZUFy9UydvhxxABa87-wgSY1jeoQHsx9RJvIHs4xIX-CWfUnv7WWvtr-DKF5lvB7IO-ndzfipaF6Np0hRzI1N-twDDOstmNliZqzbEwDbVEDoyorRtCOoE" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=wolfvoid/HNU-resources&type=date&legend=top-left&sealed_token=vpx-DtYrcBcOOd1cNFqBqSjCYEv5Un3uBaj-yvnDYGutp_fXO1bunmiQzEygx6Xs6bqckcYZUFy9UydvhxxABa87-wgSY1jeoQHsx9RJvIHs4xIX-CWfUnv7WWvtr-DKF5lvB7IO-ndzfipaF6Np0hRzI1N-twDDOstmNliZqzbEwDbVEDoyorRtCOoE" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=wolfvoid/HNU-resources&type=date&legend=top-left&sealed_token=vpx-DtYrcBcOOd1cNFqBqSjCYEv5Un3uBaj-yvnDYGutp_fXO1bunmiQzEygx6Xs6bqckcYZUFy9UydvhxxABa87-wgSY1jeoQHsx9RJvIHs4xIX-CWfUnv7WWvtr-DKF5lvB7IO-ndzfipaF6Np0hRzI1N-twDDOstmNliZqzbEwDbVEDoyorRtCOoE" />
+ </picture>
+</a>
